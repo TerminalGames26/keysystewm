@@ -27,7 +27,7 @@ local discordBtn = Instance.new("ImageButton")
 discordBtn.Size = UDim2.new(0, 28, 0, 28)
 discordBtn.Position = UDim2.new(0, 10, 0, 10)
 discordBtn.BackgroundTransparency = 1
-discordBtn.Image = "rbxassetid://10734950309" -- Discord logo
+discordBtn.Image = "rbxassetid://120363796458765" -- Discord logo
 discordBtn.Parent = keyFrame
 
 discordBtn.MouseButton1Click:Connect(function()
